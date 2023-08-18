@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="108.6931mm"
+   height="96.69352mm"
+   viewBox="0 0 108.6931 96.69352"
+   version="1.1"
+   id="svg49625"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="sew-controller.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview49627"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.466344"
+     inkscape:cx="17.390189"
+     inkscape:cy="143.21333"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="-13.788404,165.57332"
+       orientation="0,793.70079"
+       id="guide80901" />
+    <sodipodi:guide
+       position="196.2116,165.57332"
+       orientation="1122.5197,0"
+       id="guide80903" />
+    <sodipodi:guide
+       position="196.2116,-131.42668"
+       orientation="0,-793.70079"
+       id="guide80905" />
+    <sodipodi:guide
+       position="-13.788404,-131.42668"
+       orientation="-1122.5197,0"
+       id="guide80907" />
+  </sodipodi:namedview>
+  <defs
+     id="defs49622" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.788404,-68.8798)">
+    <g
+       id="g94007">
+      <g
+         id="g38225"
+         transform="translate(-22.982988,53.797093)"
+         style="fill:none;fill-opacity:0.922388">
+        <rect
+           style="fill:none;fill-opacity:0.922388;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999999;stroke-linecap:round"
+           id="rect59370-9"
+           width="25.394997"
+           height="13.298508"
+           x="83.509918"
+           y="68.05761" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#ea3111;fill-opacity:0.922388;stroke-width:0.264583"
+         x="66.170593"
+         y="129.74246"
+         id="text61248-0-5-0-3"><tspan
+           sodipodi:role="line"
+           id="tspan61246-6-8-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:0.922388;stroke-width:0.264583"
+           x="66.170593"
+           y="129.74246">用户功能</tspan></text>
+    </g>
+    <g
+       id="g32239"
+       transform="translate(4.0701421,41.564944)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370"
+         width="24.55109"
+         height="13.298508"
+         x="56.661995"
+         y="40.317589" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="61.871643"
+         y="45.817425"
+         id="text61248"><tspan
+           sodipodi:role="line"
+           id="tspan61246"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="61.871643"
+           y="45.817425">伺服电机</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="61.871643"
+           y="50.562283"
+           id="tspan27969">驱动器</tspan></text>
+    </g>
+    <g
+       id="g32245"
+       transform="translate(-73.058149,43.217021)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-8"
+         width="24.55109"
+         height="13.298508"
+         x="89.252533"
+         y="40.714821" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="91.491646"
+         y="46.156952"
+         id="text61248-7"><tspan
+           sodipodi:role="line"
+           id="tspan61246-7"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="91.491646"
+           y="46.156952">步进电机</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="91.491646"
+           y="50.90181"
+           id="tspan29813">驱动器(可选）</tspan></text>
+    </g>
+    <g
+       id="g32250"
+       transform="translate(-57.643436,61.458858)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-7"
+         width="25.062571"
+         height="13.298508"
+         x="119.01639"
+         y="39.541977" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="122.72823"
+         y="47.42802"
+         id="text61248-7-8"><tspan
+           sodipodi:role="line"
+           id="tspan61246-7-5"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="122.72823"
+           y="47.42802">运动控制器</tspan></text>
+    </g>
+    <g
+       id="g36176"
+       transform="translate(0.63649151,14.624115)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-90"
+         width="24.55109"
+         height="13.298508"
+         x="92.65097"
+         y="81.952843" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="101.31433"
+         y="89.830276"
+         id="text61248-0-5"><tspan
+           sodipodi:role="line"
+           id="tspan61246-6-8"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="101.31433"
+           y="89.830276">电源</tspan></text>
+    </g>
+    <g
+       id="g42604"
+       transform="translate(-30.662735,59.451471)">
+      <g
+         id="g37819"
+         transform="translate(-0.81427778,3.261642)">
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+           id="rect59370-90-6"
+           width="24.55109"
+           height="13.298508"
+           x="92.65097"
+           y="81.952843" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+           x="97.895073"
+           y="89.835442"
+           id="text61248-0-5-1"><tspan
+             sodipodi:role="line"
+             id="tspan61246-6-8-8"
+             style="font-size:3.52778px;stroke-width:0.264583"
+             x="97.895073"
+             y="89.835442">通信模块</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 73.321905,135.62182 v 8.93119"
+       id="path37854" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+       id="rect59370-5"
+       width="24.55109"
+       height="21.779068"
+       x="17.138292"
+       y="108.26263" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="23.164431"
+       y="121.38114"
+       id="text61248-0-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan61246-6-8-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.264583"
+         x="23.164431"
+         y="121.38114">HMI</tspan></text>
+    <g
+       id="g36566"
+       transform="translate(-33.560678,97.642022)">
+      <g
+         id="g76331"
+         transform="translate(13.713244,-18.22418)">
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999999;stroke-linecap:round"
+           id="rect59370-80"
+           width="29.242462"
+           height="13.298508"
+           x="34.135838"
+           y="65.164177" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+           x="36.073616"
+           y="73.297577"
+           id="text2069"><tspan
+             sodipodi:role="line"
+             style="font-size:4.23333px;stroke-width:0.264583"
+             x="36.073616"
+             y="73.297577"
+             id="tspan2071">集成开发工具</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g36554"
+       transform="translate(-24.538486,50.775451)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-904"
+         width="24.892078"
+         height="13.298508"
+         x="118.64557"
+         y="82.674591" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="120.53583"
+         y="90.558914"
+         id="text61248-0-5-0-3-2"><tspan
+           sodipodi:role="line"
+           id="tspan61246-6-8-0-6-4"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="120.53583"
+           y="90.558914">模拟输入模块</tspan></text>
+    </g>
+    <g
+       id="g36560"
+       transform="translate(-53.331078,60.740635)">
+      <g
+         id="g36166"
+         transform="translate(29.4113,-1.3532807)">
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+           id="rect59370-3"
+           width="24.534355"
+           height="13.298508"
+           x="117.49512"
+           y="56.238956" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+           x="119.19618"
+           y="64.112946"
+           id="text61248-0-5-0-3-5"><tspan
+             sodipodi:role="line"
+             style="font-size:3.52778px;stroke-width:0.264583"
+             x="119.19618"
+             y="64.112946"
+             id="tspan119770">输入输出模块</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 73.449504,121.58708 v -6.38007"
+       id="path37405" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.335945,126.30785 7.7829,13.52439"
+       id="path37409" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="15.322309"
+       y="74.822594"
+       id="text44507"><tspan
+         sodipodi:role="line"
+         id="tspan44505"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="15.322309"
+         y="74.822594">工缝电控</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 74.701092,101.40583 V 94.910083"
+       id="path74732" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+       id="rect59370-5-5"
+       width="65.149513"
+       height="93.773605"
+       x="56.831989"
+       y="71.299713" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 42.041918,123.59963 H 56.116039"
+       id="path80813" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 40.778858,90.399149 60.807411,105.73633"
+       id="path80815" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 43.665856,151.92831 H 56.296475"
+       id="path80817" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 29.050424,144.53037 V 130.09538"
+       id="path80819" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="96.067863"
+       y="80.788666"
+       id="text82876"><tspan
+         sodipodi:role="line"
+         id="tspan82874"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:0.264583"
+         x="96.067863"
+         y="80.788666">控制箱</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.335944,126.30785 7.2058,-3.83814"
+       id="path14321" />
+  </g>
+</svg>

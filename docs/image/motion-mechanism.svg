@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="190.84096mm"
+   height="137.19215mm"
+   viewBox="0 0 190.84095 137.19215"
+   version="1.1"
+   id="svg1315"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="motion-mechanism.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1317"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0368618"
+     inkscape:cx="433.03747"
+     inkscape:cy="312.48138"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g87751" />
+  <defs
+     id="defs1312">
+    <marker
+       style="overflow:visible"
+       id="marker71760"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path71502" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path46998" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1189"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1187" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1193"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1191" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(75.211487,-27.801287)">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+       id="rect59370-5-64-0"
+       width="21.12278"
+       height="10.41151"
+       x="-26.652252"
+       y="134.48203" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999994;stroke-linecap:round"
+       id="rect59370-5-64-7-1"
+       width="61.149155"
+       height="61.732731"
+       x="53.980324"
+       y="51.91927" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+       id="rect59370-5-64-7-2"
+       width="21.12278"
+       height="10.41151"
+       x="11.859535"
+       y="134.48203" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="-73.881783"
+       y="33.70274"
+       id="text44507"><tspan
+         sodipodi:role="line"
+         id="tspan44505"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="-73.881783"
+         y="33.70274">Motion虚拟机</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;white-space:pre;inline-size:12.3388;stroke-width:0.264583"
+       x="91.491646"
+       y="46.156952"
+       id="text61248-7-6-2"
+       transform="translate(-162.88154,14.553102)" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+       id="rect59370-5-64"
+       width="21.12278"
+       height="10.41151"
+       x="-31.174789"
+       y="112.10777" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="-70.799316"
+       y="108.83453"
+       id="text61248-0-5-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan61246-6-8-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.264583"
+         x="-70.799316"
+         y="108.83453">事件队列</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+       id="rect59370-5-64-4"
+       width="21.12278"
+       height="10.41151"
+       x="11.070763"
+       y="112.10777" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+       id="rect59370-5-64-7"
+       width="21.12278"
+       height="10.41151"
+       x="-69.698174"
+       y="112.10777" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+       id="rect59370-5-64-7-5"
+       width="111.86079"
+       height="24.883379"
+       x="-74.711487"
+       y="103.13036" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+       id="rect59370-5-64-7-2-1"
+       width="21.12278"
+       height="10.41151"
+       x="-10.052017"
+       y="112.10777" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.965, 3.86;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -45.243108,117.31352 h 11.187121"
+       id="path30144" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="-6.6891475"
+       y="118.56237"
+       id="text31768"><tspan
+         sodipodi:role="line"
+         id="tspan31766"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="-6.6891475"
+         y="118.56237">串口消息</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="-27.668959"
+       y="118.55548"
+       id="text34268"><tspan
+         sodipodi:role="line"
+         id="tspan34266"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="-27.668959"
+         y="118.55548">全局事件</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="-69.602165"
+       y="118.55376"
+       id="text38937"><tspan
+         sodipodi:role="line"
+         id="tspan38935"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="-69.602165"
+         y="118.55376">位置检查事件</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="63.453468"
+       y="56.365917"
+       id="text38937-7"><tspan
+         sodipodi:role="line"
+         id="tspan38935-8"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="63.453468"
+         y="56.365917">虚拟机</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="15.241341"
+       y="140.89355"
+       id="text41862"><tspan
+         sodipodi:role="line"
+         id="tspan41860"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="15.241341"
+         y="140.89355">回调函数</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="-22.507988"
+       y="140.81549"
+       id="text44649"><tspan
+         sodipodi:role="line"
+         id="tspan44647"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="-22.507988"
+         y="140.81549">底层驱动</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m -19.260113,122.95219 1.984813,11.36757"
+       id="path46594" />
+    <g
+       id="g58357"
+       transform="translate(-108.28844,1.085942)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999998;stroke-linecap:round"
+         id="rect59370-5-64-0-5"
+         width="11.000002"
+         height="9"
+         x="65.109825"
+         y="154.4075" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="66.414467"
+         y="160.16692"
+         id="text50410"><tspan
+           sodipodi:role="line"
+           id="tspan50408"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="66.414467"
+           y="160.16692">电机</tspan></text>
+    </g>
+    <g
+       id="g58362"
+       transform="translate(-125.21911,-0.57270363)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999998;stroke-linecap:round"
+         id="rect59370-5-64-0-9"
+         width="11.000007"
+         height="9.0000029"
+         x="93.040497"
+         y="156.06615" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="95.007553"
+         y="161.78743"
+         id="text37423"><tspan
+           sodipodi:role="line"
+           id="tspan37421"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="95.007553"
+           y="161.78743">输入</tspan></text>
+    </g>
+    <g
+       id="g58367"
+       transform="translate(-146.84711,-0.82788068)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999998;stroke-linecap:round"
+         id="rect59370-5-64-0-92"
+         width="11.000003"
+         height="9.000001"
+         x="125.6685"
+         y="156.32132" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="127.65106"
+         y="162.05467"
+         id="text55668"><tspan
+           sodipodi:role="line"
+           id="tspan55666"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="127.65106"
+           y="162.05467">通信</tspan></text>
+    </g>
+    <g
+       id="g58372"
+       transform="translate(-170.3409,-1.0835526)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999998;stroke-linecap:round"
+         id="rect59370-5-64-0-8"
+         width="11.000003"
+         height="9.000001"
+         x="160.16229"
+         y="156.577" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="160.37579"
+         y="162.31035"
+         id="text57076"><tspan
+           sodipodi:role="line"
+           id="tspan57074"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="160.37579"
+           y="162.31035">定时器</tspan></text>
+    </g>
+    <g
+       id="g58372-9"
+       transform="translate(-159.3409,-1.0835526)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999998;stroke-linecap:round"
+         id="rect59370-5-64-0-8-2"
+         width="11.000003"
+         height="9.000001"
+         x="160.16229"
+         y="156.577" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="162.1328"
+         y="162.31723"
+         id="text57076-3"><tspan
+           sodipodi:role="line"
+           id="tspan57074-1"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="162.1328"
+           y="162.31723">输出</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -16.51369,154.70253 -0.12759,-9.44155"
+       id="path58407" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 0.20041,122.42263 18.37275,11.73815"
+       id="path59069" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 23.6767,122.93299 1.27588,10.97261"
+       id="path59071" />
+    <g
+       id="g64398"
+       transform="translate(-82.030669,-13.337918)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+         id="rect59370-5-64-7-29"
+         width="21.12278"
+         height="10.41151"
+         x="174.01952"
+         y="80.241882" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="178.40007"
+         y="86.653419"
+         id="text62677"><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="178.40007"
+           y="86.653419"
+           id="tspan62679">API函数</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+       id="rect59370-5-64-7-8"
+       width="21.12278"
+       height="10.41151"
+       x="62.340065"
+       y="60.591587" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="66.021599"
+       y="67.044472"
+       id="text65974"><tspan
+         sodipodi:role="line"
+         id="tspan65972"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="66.021599"
+         y="67.044472">创建Seg</tspan></text>
+    <g
+       id="g76184"
+       transform="translate(-119.86839,-15.44759)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+         id="rect59370-5-64-7-8-2"
+         width="21.12278"
+         height="10.41151"
+         x="182.20845"
+         y="86.450684" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="185.7074"
+         y="92.894951"
+         id="text68652"><tspan
+           sodipodi:role="line"
+           id="tspan68650"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="185.7074"
+           y="92.894951">捕捉事件</tspan></text>
+    </g>
+    <g
+       id="g76189"
+       transform="translate(-118.88427,-0.81390353)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="184.91364"
+         y="109.5637"
+         id="text68652-2"><tspan
+           sodipodi:role="line"
+           id="tspan68650-0"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="184.91364"
+           y="109.5637">处理事件</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+         id="rect59370-5-64-7-8-2-6"
+         width="21.12278"
+         height="10.41151"
+         x="181.41469"
+         y="103.11943" />
+    </g>
+    <g
+       id="g76189-2"
+       transform="translate(-118.9444,-15.974644)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="184.91364"
+         y="109.5637"
+         id="text68652-2-7"><tspan
+           sodipodi:role="line"
+           id="tspan68650-0-6"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="184.91364"
+           y="109.5637">事件队列</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+         id="rect59370-5-64-7-8-2-6-2"
+         width="21.12278"
+         height="10.41151"
+         x="181.41469"
+         y="103.11943" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 43.07113,63.328711 62.227359,64.85657"
+       id="path76230" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.85526,74.92279 19.19926,2.647063"
+       id="path76518" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.77707,82.122505 v 4.216951"
+       id="path76635" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.5552,98.013571 v 4.216959"
+       id="path76635-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.91777,108.39745 62.33985,93.076161"
+       id="path81494" />
+    <g
+       id="g82106"
+       transform="translate(-119.22245,-0.82788068)">
+      <g
+         id="g82067"
+         transform="translate(69.326477,0.449854)">
+        <g
+           id="g14040"
+           transform="translate(-37.49597,8.7042207)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+             id="rect59370-8"
+             width="24.55109"
+             height="13.298508"
+             x="89.252533"
+             y="40.714821" />
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+             id="rect59370-8-6"
+             width="24.55109"
+             height="13.298508"
+             x="92.233803"
+             y="49.202148" />
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+             id="rect59370-8-6-6"
+             width="24.55109"
+             height="13.298508"
+             x="101.42018"
+             y="72.168076" />
+          <text
+             xml:space="preserve"
+             style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;white-space:pre;inline-size:12.3388;stroke-width:0.264583"
+             x="91.491646"
+             y="46.156952"
+             id="text61248-7"><tspan
+               x="91.491646"
+               y="46.156952"
+               id="tspan89325">Seg1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+             x="94.302261"
+             y="54.320335"
+             id="text6627"><tspan
+               sodipodi:role="line"
+               id="tspan6625"
+               style="font-size:3.52778px;stroke-width:0.264583"
+               x="94.302261"
+               y="54.320335">Seg2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+             x="103.33167"
+             y="76.752327"
+             id="text6627-3"><tspan
+               sodipodi:role="line"
+               id="tspan6625-4"
+               style="font-size:3.52778px;stroke-width:0.264583"
+               x="103.33167"
+               y="76.752327">SegN</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 2.12;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 103.74382,57.892812 114.46125,72.94826"
+             id="path10826" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+           x="50.88335"
+           y="46.913742"
+           id="text23575"><tspan
+             sodipodi:role="line"
+             id="tspan23573"
+             style="font-size:3.52778px;stroke-width:0.264583"
+             x="50.88335"
+             y="46.913742">Segment数组</tspan></text>
+      </g>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+         id="rect59370-5-64-0-7"
+         width="45.993614"
+         height="56.449009"
+         x="116.3272"
+         y="42.000683" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -22.014244,46.477776 1.97859,55.510894 -22.483195,59.971526"
+       id="path82221" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 37.15841,119.20652 62.33985,93.07616"
+       id="path82765" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.50963,64.997577 8.37222,4.864306"
+       id="path83277" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 84.21121,106.71835 101.23628,77.532519"
+       id="path83574" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.5582px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;white-space:pre;inline-size:0.296274;stroke-width:0.116864"
+       x="26.081751"
+       y="160.04074"
+       id="text61248-0-5-5-9"
+       transform="matrix(2.0606118,0,0,2.4874914,-148.60754,-357.12483)"><tspan
+         x="26.081751"
+         y="160.04074"
+         id="tspan89331"><tspan
+           dx="0 1.5582"
+           style="font-family:Calibri;-inkscape-font-specification:Calibri"
+           id="tspan89327">窗口</tspan><tspan
+           dx="1.5582"
+           style="font-family:Calibri;-inkscape-font-specification:Calibri"
+           id="tspan89329">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="-73.275291"
+       y="39.724289"
+       id="text23575-1"><tspan
+         sodipodi:role="line"
+         id="tspan23573-2"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="-73.275291"
+         y="39.724289">Seg1</tspan></text>
+    <g
+       id="g87751">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-8-6-8"
+         width="16.070532"
+         height="9.3288841"
+         x="-51.7761"
+         y="54.750885" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999995;stroke-linecap:round"
+         id="rect59370-8-6-8-4"
+         width="14.80738"
+         height="8.9680099"
+         x="-48.061466"
+         y="61.482449" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999997;stroke-linecap:round"
+         id="rect59370-8-6-8-4-7"
+         width="14.987818"
+         height="9.6897593"
+         x="-37.356949"
+         y="85.746277" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999998;stroke-linecap:round"
+         id="rect59370-8-6-8-4-7-2"
+         width="30.362234"
+         height="42.033451"
+         x="-52.862389"
+         y="53.411201" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-8-6-6-1"
+         width="16.160749"
+         height="13.298508"
+         x="-72.959396"
+         y="82.137527" />
+      <g
+         id="g40381">
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999991;stroke-linecap:round"
+           id="rect59370-8-9"
+           width="16.296078"
+           height="7.5696197"
+           x="-72.959396"
+           y="41.260796" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;white-space:pre;inline-size:12.3388;stroke-width:0.264583"
+           x="91.491646"
+           y="46.156952"
+           id="text61248-7-6"
+           transform="translate(-159.8141,0.27094415)"><tspan
+             x="91.491646"
+             y="46.156952"
+             id="tspan89333">速度</tspan></text>
+      </g>
+      <g
+         id="g40381-6"
+         transform="translate(0,7.5696182)">
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999991;stroke-linecap:round"
+           id="rect59370-8-9-4"
+           width="16.296078"
+           height="7.5696197"
+           x="-72.959396"
+           y="41.260796" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;white-space:pre;inline-size:12.3388;stroke-width:0.264583"
+           x="91.491646"
+           y="46.156952"
+           id="text61248-7-6-8"
+           transform="translate(-159.8141,0.27094415)"><tspan
+             x="91.491646"
+             y="46.156952"
+             id="tspan89335">距离</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="-48.354362"
+         y="59.688633"
+         id="text6627-1"><tspan
+           sodipodi:role="line"
+           id="tspan6625-8"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="-48.354362"
+           y="59.688633">EV1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="-45.953705"
+         y="66.769379"
+         id="text6627-1-9"><tspan
+           sodipodi:role="line"
+           id="tspan6625-8-1"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="-45.953705"
+           y="66.769379">EV2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="-35.879631"
+         y="91.60257"
+         id="text6627-1-9-4"><tspan
+           sodipodi:role="line"
+           id="tspan6625-8-1-2"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="-35.879631"
+           y="91.60257">EVn</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="-70.559364"
+         y="90.025291"
+         id="text6627-3-5"><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="-70.559364"
+           y="90.025291"
+           id="tspan34154">EV数组</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 2.12;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -42.250888,73.004732 10.71743,15.055448"
+         id="path10826-6" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-5-6"
+         width="50.590267"
+         height="54.175243"
+         x="-72.959396"
+         y="41.260796" />
+      <g
+         id="g45377">
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999991;stroke-linecap:round"
+           id="rect59370-8-9-8"
+           width="16.296078"
+           height="7.5696197"
+           x="-72.959396"
+           y="56.400032" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+           x="-71.849693"
+           y="61.423355"
+           id="text43750"><tspan
+             sodipodi:role="line"
+             id="tspan43748"
+             style="font-size:3.52778px;stroke-width:0.264583"
+             x="-71.849693"
+             y="61.423355">停止角度</tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 3.18;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -65.106994,64.883833 v 16.780679 0"
+         id="path63528" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -52.883498,67.991671 v 0 l -7.272546,13.396796 7.017369,-4.082833"
+         id="path63665" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker71760)"
+       d="M -58.972122,122.80425 -17.2753,134.31976"
+       id="path71417" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="14.497355"
+       y="118.55204"
+       id="text83026"><tspan
+         sodipodi:role="line"
+         id="tspan83024"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="14.497355"
+         y="118.55204">电机停止</tspan></text>
+  </g>
+</svg>

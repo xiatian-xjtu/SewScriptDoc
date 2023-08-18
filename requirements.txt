@@ -1,0 +1,6 @@
+Sphinx 
+sphinx-copybutton
+sphinx_rtd_theme 
+sphinx-notfound-page
+sphinxemoji
+sphinx-intl

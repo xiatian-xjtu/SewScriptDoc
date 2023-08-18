@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96.813629mm"
+   height="85.969025mm"
+   viewBox="0 0 96.813628 85.969025"
+   version="1.1"
+   id="svg7589"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="generic plc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7591"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0737236"
+     inkscape:cx="246.65776"
+     inkscape:cy="168.77852"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs7586">
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path108816" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path108825" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7669"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7667" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path108816-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path108825-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7677"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7675" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-2-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path108816-6-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path108825-4-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7685"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7683" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-2-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path108816-6-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-9-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path108825-4-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker36580"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path36578" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-53.348266,-13.043968)">
+    <g
+       id="g33713"
+       transform="translate(7.4245697,-6.1647322)"
+       style="fill:#ea3111;fill-opacity:0.922388">
+      <g
+         id="g42593">
+        <g
+           id="g38225"
+           transform="translate(0.25517705,0.51035394)">
+          <rect
+             style="fill:#ea3111;fill-opacity:0.922388;fill-rule:evenodd;stroke:#20a0bf;stroke-width:0.999999;stroke-linecap:round"
+             id="rect59370-9"
+             width="25.394997"
+             height="13.298508"
+             x="83.509918"
+             y="68.05761" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#ea3111;fill-opacity:0.922388;stroke-width:0.264583"
+           x="92.179657"
+           y="77.000397"
+           id="text61248-0-5-0-3"><tspan
+             sodipodi:role="line"
+             id="tspan61246-6-8-0-6"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;fill-opacity:0.922388;stroke-width:0.264583"
+             x="92.179657"
+             y="77.000397">PLC</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g32239"
+       transform="translate(1.544699,1.4383545)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370"
+         width="24.55109"
+         height="13.298508"
+         x="56.661995"
+         y="40.317589" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="61.871643"
+         y="45.817425"
+         id="text61248"><tspan
+           sodipodi:role="line"
+           id="tspan61246"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="61.871643"
+           y="45.817425">伺服电机</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="61.871643"
+           y="50.562283"
+           id="tspan27969">驱动器</tspan></text>
+    </g>
+    <g
+       id="g32245"
+       transform="translate(-31.027856,-17.407293)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-8"
+         width="24.55109"
+         height="13.298508"
+         x="89.152328"
+         y="40.714821" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="94.361977"
+         y="46.219822"
+         id="text61248-7"><tspan
+           sodipodi:role="line"
+           id="tspan61246-7"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="94.361977"
+           y="46.219822">步进电机</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="94.361977"
+           y="50.96468"
+           id="tspan29813">驱动器</tspan></text>
+    </g>
+    <g
+       id="g32250"
+       transform="translate(-27.522013,-9.7210464)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-7"
+         width="25.062571"
+         height="13.298508"
+         x="119.01639"
+         y="39.541977" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="122.72823"
+         y="47.42802"
+         id="text61248-7-8"><tspan
+           sodipodi:role="line"
+           id="tspan61246-7-5"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="122.72823"
+           y="47.42802">运动控制器</tspan></text>
+    </g>
+    <g
+       id="g36176"
+       transform="translate(31.299227,-44.827356)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-90"
+         width="24.55109"
+         height="13.298508"
+         x="92.65097"
+         y="81.952843" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="101.31433"
+         y="89.830276"
+         id="text61248-0-5"><tspan
+           sodipodi:role="line"
+           id="tspan61246-6-8"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="101.31433"
+           y="89.830276">电源</tspan></text>
+    </g>
+    <g
+       id="g42604">
+      <g
+         id="g37819"
+         transform="translate(-0.81427778,3.261642)">
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+           id="rect59370-90-6"
+           width="24.55109"
+           height="13.298508"
+           x="92.65097"
+           y="81.952843" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+           x="97.895073"
+           y="89.835442"
+           id="text61248-0-5-1"><tspan
+             sodipodi:role="line"
+             id="tspan61246-6-8-8"
+             style="font-size:3.52778px;stroke-width:0.264583"
+             x="97.895073"
+             y="89.835442">通信模块</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.98464,76.170351 v 8.931196"
+       id="path37854" />
+    <g
+       id="g36171"
+       transform="translate(-9.4924983,-20.059965)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-5"
+         width="24.55109"
+         height="13.298508"
+         x="67.758896"
+         y="81.952843" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="76.582504"
+         y="89.861511"
+         id="text61248-0-5-5"><tspan
+           sodipodi:role="line"
+           id="tspan61246-6-8-6"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="76.582504"
+           y="89.861511">HMI</tspan></text>
+    </g>
+    <g
+       id="g36566"
+       transform="translate(19.712428,19.01069)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-80"
+         width="24.55109"
+         height="13.298508"
+         x="34.135838"
+         y="65.164177" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="38.695717"
+         y="69.884529"
+         id="text2069"><tspan
+           sodipodi:role="line"
+           id="tspan2067"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="38.695717"
+           y="69.884529">PLC</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="38.695717"
+           y="75.482124"
+           id="tspan2071">开发工具</tspan></text>
+    </g>
+    <g
+       id="g36554"
+       transform="translate(6.1242493,-8.6760198)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+         id="rect59370-904"
+         width="24.892078"
+         height="13.298508"
+         x="118.64557"
+         y="82.674591" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+         x="120.53583"
+         y="90.558914"
+         id="text61248-0-5-0-3-2"><tspan
+           sodipodi:role="line"
+           id="tspan61246-6-8-0-6-4"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="120.53583"
+           y="90.558914">模拟输入模块</tspan></text>
+    </g>
+    <g
+       id="g36560"
+       transform="translate(-22.668343,1.2891642)">
+      <g
+         id="g36166"
+         transform="translate(29.4113,-1.3532807)">
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#20a0bf;stroke-width:1;stroke-linecap:round"
+           id="rect59370-3"
+           width="24.534355"
+           height="13.298508"
+           x="117.49512"
+           y="56.238956" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+           x="119.19618"
+           y="64.112946"
+           id="text61248-0-5-0-3-5"><tspan
+             sodipodi:role="line"
+             style="font-size:3.52778px;stroke-width:0.264583"
+             x="119.19618"
+             y="64.112946"
+             id="tspan119770">输入输出模块</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.187719,29.983303 8.293253,5.869072 -8.293253,10.207082"
+       id="path37288" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.060129,69.025391 h 7.527724"
+       id="path37403" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 104.11224,62.135612 V 43.124921"
+       id="path37405" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 123.25051,44.400805 -6.25183,22.455582 6.50701,-1.65865"
+       id="path37407" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.99868,66.856387 7.7829,13.524383"
+       id="path37409" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 78.399356,84.174866 91.189663,75.701738"
+       id="path42669" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.264583"
+       x="55.006916"
+       y="18.979872"
+       id="text44507"><tspan
+         sodipodi:role="line"
+         id="tspan44505"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="55.006916"
+         y="18.979872">通用型PLC系统</tspan></text>
+  </g>
+</svg>
